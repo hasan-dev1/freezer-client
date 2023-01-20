@@ -1,0 +1,6 @@
+.bannerimage{
+    filter: brightness(0.75) blur(2px);
+}
+.zindx{
+    z-index: 313;
+}
